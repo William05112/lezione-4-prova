@@ -1,3 +1,25 @@
+/* selettore dei tag  */
 h1 {
+
     color: red;
+
+    background-color: purple;
+
+}
+body { 
+
+    background-color: gold;
+}
+/* selettore di classe */
+.grey-section {
+
+    background-color: grey;
+
+}
+
+/* selettore di id */
+#logo{
+
+    color: blue;
+
 }
